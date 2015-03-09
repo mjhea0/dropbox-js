@@ -29,8 +29,7 @@ first dropbox.js application up and running.
 
 The [code snippets guide](./guides/snippets.md) contains some JavaScript
 fragments that may be useful in the latter stages of application development.
-The [sample apps](./samples/) source code can be useful as a scaffold or as an
-illustration of how all the pieces fit together.
+The two sample apps' - [CoffeeScript](./samples/) and [JavaScript](https://github.com/mjhea0/node-dropbox-example) - source code can be useful as a scaffold or as an illustration of how all the pieces fit together.
 
 The
 [dropbox.js API reference](http://coffeedoc.info/github/dropbox/dropbox-js/master/class_index.html)
